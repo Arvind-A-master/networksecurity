@@ -1,0 +1,16 @@
+pandas
+numpy 
+seaborn
+matplotlib
+scikit-learn
+xgboost
+catboost
+dill
+fastapi
+uvicorn
+typing
+pydantic
+jinja2
+python-multipart
+python-dotenv
+#-e . 
