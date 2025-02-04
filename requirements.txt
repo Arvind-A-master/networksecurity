@@ -13,4 +13,7 @@ pydantic
 jinja2
 python-multipart
 python-dotenv
-#-e . 
+pymongo
+certifi
+
+#-e. 
